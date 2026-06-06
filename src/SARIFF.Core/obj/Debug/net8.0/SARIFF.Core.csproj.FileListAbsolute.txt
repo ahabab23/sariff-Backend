@@ -1,0 +1,36 @@
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.Core/bin/Debug/net8.0/SARIFF.Core.deps.json
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.Core/bin/Debug/net8.0/SARIFF.Core.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.Core/bin/Debug/net8.0/SARIFF.Core.pdb
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/SARIFF.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/SARIFF.Core.AssemblyInfoInputs.cache
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/SARIFF.Core.AssemblyInfo.cs
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/SARIFF.Core.csproj.CoreCompileInputs.cache
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/SARIFF.Core.sourcelink.json
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/SARIFF.Core.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/refint/SARIFF.Core.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/SARIFF.Core.pdb
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/ref/SARIFF.Core.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.Core/bin/Debug/net8.0/SARIFF.Core.deps.json
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.Core/bin/Debug/net8.0/SARIFF.Core.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.Core/bin/Debug/net8.0/SARIFF.Core.pdb
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/SARIFF.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/SARIFF.Core.AssemblyInfoInputs.cache
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/SARIFF.Core.AssemblyInfo.cs
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/SARIFF.Core.csproj.CoreCompileInputs.cache
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/SARIFF.Core.sourcelink.json
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/SARIFF.Core.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/refint/SARIFF.Core.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/SARIFF.Core.pdb
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/ref/SARIFF.Core.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.Core/bin/Debug/net8.0/SARIFF.Core.deps.json
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.Core/bin/Debug/net8.0/SARIFF.Core.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.Core/bin/Debug/net8.0/SARIFF.Core.pdb
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/SARIFF.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/SARIFF.Core.AssemblyInfoInputs.cache
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/SARIFF.Core.AssemblyInfo.cs
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/SARIFF.Core.csproj.CoreCompileInputs.cache
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/SARIFF.Core.sourcelink.json
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/SARIFF.Core.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/refint/SARIFF.Core.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/SARIFF.Core.pdb
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.Core/obj/Debug/net8.0/ref/SARIFF.Core.dll

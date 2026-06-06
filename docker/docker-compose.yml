@@ -1,0 +1,59 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: sariff-postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres123
+      POSTGRES_DB: sariff_db
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    networks:
+      - sariff-network
+
+  redis:
+    image: redis:7-alpine
+    container_name: sariff-redis
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    networks:
+      - sariff-network
+
+  api:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    container_name: sariff-api
+    ports:
+      - "8080:8080"
+    environment:
+      - ConnectionStrings__DefaultConnection=Host=postgres;Port=5432;Database=sariff_db;Username=postgres;Password=postgres123
+      - Jwt__SecretKey=YourSuperSecretKeyThatIsAtLeast32CharactersLong!
+      - Jwt__Issuer=SARIFF
+      - Jwt__Audience=SARIFF-Users
+      - ASPNETCORE_ENVIRONMENT=Development
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    networks:
+      - sariff-network
+
+volumes:
+  postgres_data:
+  redis_data:
+
+networks:
+  sariff-network:
+    driver: bridge

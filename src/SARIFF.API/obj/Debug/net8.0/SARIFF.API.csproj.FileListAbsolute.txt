@@ -1,0 +1,398 @@
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/appsettings.Development.json
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/appsettings.json
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.API
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.API.deps.json
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.API.runtimeconfig.json
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.API.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.API.pdb
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Humanizer.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Npgsql.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.AspNetCore.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.Extensions.Hosting.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.Extensions.Logging.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.Formatting.Compact.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.Settings.Configuration.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.Sinks.Console.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.Sinks.Debug.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.Sinks.File.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/System.CodeDom.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.Core.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.Infrastructure.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.Infrastructure.pdb
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.Core.pdb
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.csproj.AssemblyReference.cache
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.GeneratedMSBuildEditorConfig.editorconfig
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.AssemblyInfoInputs.cache
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.AssemblyInfo.cs
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.csproj.CoreCompileInputs.cache
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.MvcApplicationPartsAssemblyInfo.cs
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.MvcApplicationPartsAssemblyInfo.cache
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.sourcelink.json
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/staticwebassets.build.json
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/staticwebassets.development.json
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/staticwebassets/msbuild.SARIFF.API.Microsoft.AspNetCore.StaticWebAssets.props
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/staticwebassets/msbuild.build.SARIFF.API.props
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SARIFF.API.props
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SARIFF.API.props
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/staticwebassets.pack.json
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/scopedcss/bundle/SARIFF.API.styles.css
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.csproj.Up2Date
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/refint/SARIFF.API.dll
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.pdb
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.genruntimeconfig.cache
+/home/uwes/Desktop/sariff/SARIFF-Backend-Complete/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/ref/SARIFF.API.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/appsettings.Development.json
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/appsettings.json
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.API
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.API.deps.json
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.API.runtimeconfig.json
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.API.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.API.pdb
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Humanizer.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Npgsql.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.AspNetCore.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.Extensions.Hosting.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.Extensions.Logging.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.Formatting.Compact.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.Settings.Configuration.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.Sinks.Console.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.Sinks.Debug.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.Sinks.File.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/System.CodeDom.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.Core.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.Infrastructure.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.Infrastructure.pdb
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.Core.pdb
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.csproj.AssemblyReference.cache
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.GeneratedMSBuildEditorConfig.editorconfig
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.AssemblyInfoInputs.cache
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.AssemblyInfo.cs
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.csproj.CoreCompileInputs.cache
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.MvcApplicationPartsAssemblyInfo.cs
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.MvcApplicationPartsAssemblyInfo.cache
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.sourcelink.json
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/staticwebassets.build.json
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/staticwebassets.development.json
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/staticwebassets/msbuild.SARIFF.API.Microsoft.AspNetCore.StaticWebAssets.props
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/staticwebassets/msbuild.build.SARIFF.API.props
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SARIFF.API.props
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SARIFF.API.props
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/staticwebassets.pack.json
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/scopedcss/bundle/SARIFF.API.styles.css
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.csproj.Up2Date
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/refint/SARIFF.API.dll
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.pdb
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.genruntimeconfig.cache
+/home/uwes/Desktop/sariff/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/ref/SARIFF.API.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/appsettings.json
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/appsettings.Development.json
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.API
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.API.deps.json
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.API.runtimeconfig.json
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.API.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.API.pdb
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Humanizer.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Npgsql.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.AspNetCore.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.Extensions.Hosting.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.Extensions.Logging.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.Formatting.Compact.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.Settings.Configuration.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.Sinks.Console.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.Sinks.Debug.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Serilog.Sinks.File.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/System.CodeDom.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.Core.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.Infrastructure.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.Infrastructure.pdb
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/SARIFF.Core.pdb
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.csproj.AssemblyReference.cache
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.GeneratedMSBuildEditorConfig.editorconfig
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.AssemblyInfoInputs.cache
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.AssemblyInfo.cs
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.csproj.CoreCompileInputs.cache
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.MvcApplicationPartsAssemblyInfo.cs
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.MvcApplicationPartsAssemblyInfo.cache
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.sourcelink.json
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/staticwebassets.build.json
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/staticwebassets.development.json
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/staticwebassets/msbuild.SARIFF.API.Microsoft.AspNetCore.StaticWebAssets.props
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/staticwebassets/msbuild.build.SARIFF.API.props
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SARIFF.API.props
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SARIFF.API.props
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/staticwebassets.pack.json
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/scopedcss/bundle/SARIFF.API.styles.css
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.csproj.Up2Date
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/refint/SARIFF.API.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.pdb
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/SARIFF.API.genruntimeconfig.cache
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/obj/Debug/net8.0/ref/SARIFF.API.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Binder.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.Extensions.Http.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/uwes/Desktop/sariffBackend/Sariff Backend/SARIFF-Backend/src/SARIFF.API/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
