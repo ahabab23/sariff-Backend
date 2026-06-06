@@ -1,6 +1,3 @@
-// =====================================================
-// CREATE NEW FILE: Services/ClientPortalService.cs
-// =====================================================
 
 using Microsoft.EntityFrameworkCore;
 using SARIFF.Core.DTOs;

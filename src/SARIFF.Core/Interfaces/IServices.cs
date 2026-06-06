@@ -102,10 +102,7 @@ public interface ITransactionService
 }
 
 /// <summary>
-/// FIXED Expense Service Interface
-/// 
-/// Changes:
-/// 1. DeleteAsync now requires userId for audit trail
+
 /// </summary>
 public interface IExpenseService
 {
@@ -135,7 +132,7 @@ public interface IExchangeRateService
     Task<ApiResponse<TransactionResponseDto>> CreateExchangeTransactionAsync(Guid companyId, Guid userId, ExchangeTransactionDto dto);
 }
 /// <summary>
-/// Enhanced Exchange Service for Forex Bureau Operations
+
 /// Handles float management, exchange transactions, daily operations, and reporting
 /// </summary>
 public interface IExchangeService

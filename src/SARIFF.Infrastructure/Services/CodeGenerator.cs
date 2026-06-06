@@ -3,20 +3,7 @@ using SARIFF.Infrastructure.Data;
 
 namespace SARIFF.Infrastructure.Services;
 
-/// <summary>
-/// FIXED Code Generator
-/// 
-/// Changes:
-/// 1. Uses database-level MAX() + 1 instead of COUNT() + 1 to prevent duplicates
-/// 2. Uses sequence extraction from existing codes for robustness
-/// 3. Added proper error handling
-/// 4. NEW: In-memory tracking of recently generated codes to prevent duplicates
-///    when multiple codes are generated before SaveChanges (e.g., FromAccount exchanges
-///    create 2 transaction records in one request)
-/// 
-/// NOTE: For high-concurrency systems, consider using database sequences
-/// (PostgreSQL: CREATE SEQUENCE, SQL Server: IDENTITY) instead.
-/// </summary>
+
 public static class CodeGenerator
 {
     private static readonly SemaphoreSlim _lock = new(1, 1);
