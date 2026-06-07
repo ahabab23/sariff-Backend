@@ -568,7 +568,9 @@ public class AuthService : IAuthService
 
     private string GenerateJwtToken(Guid? companyId, Guid? userId, UserRole role, string name, string code)
     {
-        var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Jwt:SecretKey"]!));
+        // var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Jwt:SecretKey"]!));
+        var jwtKey = Environment.GetEnvironmentVariable("JWT_SECRET_KEY") ?? _config["Jwt:SecretKey"]!;
+        var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtKey));
         var claims = new List<Claim>
         {
             new(ClaimTypes.Role, role.ToString()),
